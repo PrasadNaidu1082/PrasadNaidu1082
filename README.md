@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrasadNaidu1082
 - 👀 I’m interested in Devops and IAAC
 - 🌱 I’m currently working as Devops Engineer
-- 💞️ I’m looking to collaborate in projects
+- 💞️ I’m looking to collaborate in projects on Devops, K8'S, microservices an opensource.
 - 📫 How to reach me via email prasadnaidu1082@gmail.com
 
 <!---
